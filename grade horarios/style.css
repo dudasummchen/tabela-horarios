@@ -1,0 +1,94 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+ .lin{
+    text-align: center;
+ }
+ .corcinza{
+    background-color: gray;
+ }
+ .corcinza:hover{
+    background-color: rgb(71, 67, 67);
+ }
+ .corroxo{
+    background-color: rgb(166, 115, 213);
+ }
+ .corroxo:hover{
+    background-color: rgb(139, 65, 209);
+ }
+ .corazul{
+    background-color: rgb(116, 116, 232);
+ }
+ .corazul:hover{
+    background-color: rgb(57, 57, 197);
+ }
+ .corvermelho{
+    background-color: rgb(240, 54, 54);
+ }
+ .corvermelho:hover{
+    background-color: rgb(211, 31, 31);
+ }
+ .coramarelo{
+    background-color: rgb(238, 238, 87);
+ }
+ .coramarelo:hover{
+    background-color: yellow;
+ }
+ .corsalmao{
+    background-color: salmon;
+ }
+ .corsalmao:hover{
+    background-color: rgb(233, 79, 62);
+ }
+ .corrosa{
+    background-color: palevioletred;
+ }
+ .corrosa:hover{
+    background-color: rgb(218, 53, 108);
+ }
+ .corverde{
+    background-color: rgb(120, 198, 120);
+ }
+ .corverde:hover{
+    background-color: rgb(32, 122, 32);
+ }
+ .corcinza{
+    background-color: gray;
+ }
+ .corcinza:hover{
+    background-color: rgb(98, 98, 98);
+ }
+ .cormarrom{
+    background-color: rgb(81, 57, 57);
+ }
+ .cormarrom{
+    background-color: rgb(66, 43, 43);
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .disciplina{
+    width: 100%;
+    display: block;
+    float: left;
+    height: 20px;
+  }
+  .professor{
+    width: 100%;
+    display:block;
+    float: left;
+    height:20px;
+  }
